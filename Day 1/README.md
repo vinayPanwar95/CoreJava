@@ -1,5 +1,5 @@
 # CoreJava
-This course in intended to learn Core java with hackerRank probl;ems and soultions
+This course in intended to learn Core java with hackerRank problems and soultions
 # Topics Covered 
 	1. Download JDK 1.8
 	2. Download STS
